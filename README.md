@@ -139,6 +139,10 @@ uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 > [!TIP]
 > **Mock Mode Evaluation:** Reviewers can test the entire logic pipeline instantly! If you don't supply an `.env` file (or set `OPENAI_API_KEY=test`), the system engages a highly advanced "Mock Mode" using deterministic matching and an in-memory mock database that mirrors Supabase perfectly. No API keys required!
 
+> [!IMPORTANT]  
+> **🚀 Public Deployment Ready (Vercel) & Plug-and-Play AI:**  
+> This project is structurally designed so it can be instantly deployed on **Vercel** for a public URL that anyone can try! Furthermore, our LLM integration is completely **plug-and-play**. To switch from Mock Mode to Live Mode, simply drop an active `OPENAI_API_KEY` into the `.env` file. The API Brain will instantly connect to OpenAI and utilize live RAG and intent classification. No code changes required!
+
 ### Evaluation Endpoints
 Once the server is running, navigate to:
 - **Interactive Web Demo:** [http://localhost:8000/app/](http://localhost:8000/app/) (Features Chat, Identity Sandbox, and Admin Review Queue).
