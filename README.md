@@ -171,10 +171,9 @@ The system includes 11 comprehensive REST client test scenarios (`tests/test_que
 
 <div align="center">
 
-## 🎥 Loom Video Walkthrough
 
-**[▶️ View Loom Walkthrough Video Here](https://loom.com/share/placeholder_link_for_submission)** 
+## 🎥 Demo Video Walkthrough
 
-*(Replace with actual recording link before submission)*
+[▶️ Watch the demo video on Google Drive](https://drive.google.com/file/d/1h8KPI3g2TP0opXKwtPjdvzWQIP7PxhMT/view?usp=sharing)
 
 </div>
