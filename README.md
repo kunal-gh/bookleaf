@@ -171,9 +171,12 @@ The system includes 11 comprehensive REST client test scenarios (`tests/test_que
 
 <div align="center">
 
+## 🎥 Loom Video Walkthrough
 
-## 🎥 Demo Video Walkthrough
+**[▶️ Watch Full Walkthrough on Loom](https://www.loom.com/share/9f8a04ead37b4d55b3baf077acd0fa74)**
 
-[▶️ Watch the demo video on Google Drive](https://drive.google.com/file/d/1h8KPI3g2TP0opXKwtPjdvzWQIP7PxhMT/view?usp=sharing)
+<a href="https://www.loom.com/share/9f8a04ead37b4d55b3baf077acd0fa74" target="_blank">
+  <img src="docs/video_preview.jpg" alt="Click to Watch Loom Walkthrough" width="700"/>
+</a>
 
 </div>
